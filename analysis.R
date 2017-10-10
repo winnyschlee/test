@@ -32,6 +32,8 @@ plot(c(0,max(sd.agg$q2)), c(0,1), type = 'n', xlab = 'Standard Deviation [Tinnit
 points(sd.agg$q2, mean.agg$q2, pch = 19)
 
 
+# zeit für neue funktionen
+
 ################################################################
 # within day - variability
 ################################################################
